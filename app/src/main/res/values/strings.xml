@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Sajag India</string>
+    <string name="title_activity_dashboard">dashboard</string>
+    <string name="title_activity_dashboard.java">dashboard.java</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoicHJhZGVlcGtvcmkxMjMiLCJhIjoiY2xuaDlnc29pMHVrbDJpbWlqbG8wbWJwcCJ9.uWnBpwB7anAK2tzMfEfHiA</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="add_a_caption">Add a caption...</string>
+    <string name="enter_number">Enter Number</string>
+
+    <string name="tab_text_1">Add Places</string>
+    <string name="tab_text_2">Places List</string>
+    <string name="tab_text_3">Map</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_twitpage">twitpage</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="todo">TODO</string>
+    <string name="_01">0</string>
+    <string name="_02">0</string>
+    <string name="todo4">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="create_account">Create account</string>
+    <string name="login">Login</string>
+    <string name="save">Save</string>
+    <string name="website">Website</string>
+    <string name="birth_date">Birth date</string>
+    <string name="location">Location</string>
+    <string name="bio">Bio</string>
+    <string name="username">UserName</string>
+
+    <!--    <string name="default_web_client_id"> </string>-->
+
+    <string name="sajagapp">Sajag is a disaster alert application that provides
+       real-time weather updates, allows citizens to report disasters in their area,
+       and offers a platform for disaster communication and preparedness.
+</string>
+
+    <string name="report">Sajag App is free to download and
+        use for anyone concerned about disaster preparedness and communication.</string>
+
+    <string name="margdarshika">Marg Darshika offers vital safety guidelines for different disasters, covering cyclones, floods, earthquakes, cold waves, heat waves, avalanches, thunderstorms, and more</string>
+
+    <string name="internet">Most features require an internet connection to access real-time data and communicate with others. However, you might be able to view previously downloaded content from the "View" section even without an internet connection (depending on app functionality).</string>
+
+    <string name="viewreport">The app\'s View section displays images and information about reported disasters happening in your area.</string>
+
+    <string name="feedback">Note :
+        \n1.We value your thoughts! Your feedback helps us improve.
+        \n2.Whether it\'s a suggestion, a bug report, or just a shoutout, we\'re all ears! Share your thoughts with us and together, let\'s make this app even better.
+        \n 3.Thank you for being a part of our journey! </string>
+</resources>
+

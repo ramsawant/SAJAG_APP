@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".AddPlacesFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Places"
+       android:textSize="30dp"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:fontFamily="@font/aladin"
+        android:textColor="#1580B1"
+     />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Please enter Street/City Address"
+        android:id="@+id/edStreet"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:background="@android:drawable/editbox_background_normal"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Please enter State Name"
+        android:id="@+id/edState"
+        android:layout_marginTop="15dp"
+        android:padding="10dp"
+        android:background="@android:drawable/editbox_background_normal"
+        />
+
+ <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Please enter Country Name"
+        android:id="@+id/edCountry"
+        android:layout_marginTop="15dp"
+        android:padding="10dp"
+        android:background="@android:drawable/editbox_background_normal"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/aladin"
+        android:text="Please Select Image"
+        android:textSize="25dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        />
+
+    <ImageView
+        android:id="@+id/imgPlace"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@android:drawable/ic_menu_gallery"
+        />
+</LinearLayout>
+
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Save Location to FIrebase"
+        />
+
+</LinearLayout>

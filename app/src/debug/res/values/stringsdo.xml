@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Marg Darshika</string>
+
+    //Floods
+
+    <string name="pastaIngredients">
+Stay informed about flood risks in your area and follow evacuation orders promptly.
+\n2.Move to higher ground if flooding is imminent or if authorities advise evacuation.
+\n3.Keep emergency supplies, including food, water, medications, and important documents, in a waterproof container.
+\n4.Turn off utilities like electricity and gas if instructed to do so to prevent hazards.
+\n5.Listen to local authorities and weather reports for updates and instructions.</string>
+    <string name="pastaDesc">Don\'t walk or drive through floodwaters, as they can be deeper or faster-moving than they appear.
+\n2.Avoid contact with floodwater, which may contain contaminants, debris, or hidden hazards.
+\n3.Don\'t stay in low-lying areas or near rivers, streams, or coastal areas during flood warnings.
+\n4.Avoid using electrical appliances or equipment in flooded areas until it\'s safe to do so.
+\n5.Don\'t ignore evacuation orders or warnings from emergency officials.</string>
+
+    //Cyclone
+
+    <string name="maggiIngredients">
+\n1.Stay informed about cyclone warnings and updates from official sources.
+\n2.Secure loose objects and outdoor furniture to prevent them from becoming projectiles.
+\n3.Keep emergency supplies like food, water, medications, and first aid kits handy.
+\n4.Reinforce doors and windows or use storm shutters to protect your home.
+\n5.Evacuate to a safe location if authorities advise you to do so.    </string>
+
+    <string name="maggieDesc">1.Don\'t ignore evacuation orders; take them seriously for your safety.
+\n2.Don\'t go near windows during the cyclone as flying debris could cause injury.
+\n3.Avoid using candles or open flames if the power goes out; use flashlights instead.
+\n4.Don\'t drive through flooded areas; the water may be deeper than it appears.
+\n5.Don\'t spread rumors or misinformation; rely on official channels for information.</string>
+
+    //Eathquakes
+
+    <string name="cakeIngredients">
+\n1.Drop, cover, and hold on during an earthquake to protect yourself from falling objects.
+\n2.Identify safe spots in each room, such as under sturdy tables or desks, and practice earthquake drills.
+\n3.Secure heavy furniture and appliances to prevent them from tipping over.
+\n4.Keep emergency supplies like water, food, flashlight, and first aid kit in an accessible place.
+    </string>
+
+    <string name="cakeDesc">1.Don\'t use elevators during or immediately after an earthquake; use stairs instead.
+\n2.Avoid standing near windows, mirrors, or tall furniture that could topple over.
+\n3.Don\'t light matches or candles if there\'s a gas leak; use a flashlight to inspect for damage.
+\n4.Don\'t rush outside during shaking; wait until it\'s safe and then exit carefully, watching for debris.
+</string>
+
+    //Heat Waves
+
+    <string name="pancakeIngredients">1.Stay hydrated by drinking plenty of water throughout the day.
+\n2.Wear lightweight, light-colored, loose-fitting clothing to stay cool.
+\n3.Stay indoors in air-conditioned or well-ventilated spaces during the hottest part of the day.
+\4.nUse fans or air conditioning to lower indoor temperatures if possible.
+\n5.Take cool showers or baths to reduce body heat.</string>
+    <string name="pancakeDesc">1.Don\'t leave pets or children in parked vehicles, even for a short time.
+\n2.Avoid strenuous outdoor activities during peak heat hours (usually midday to late afternoon).
+\n3.Don\'t consume alcohol or caffeine excessively, as they can dehydrate your body.
+\n4.Don\'t rely solely on fans if the temperature is extremely high; use air conditioning if available.
+\n5.Don\'t ignore signs of heat-related illness such as heat exhaustion or heatstroke; seek medical help if needed.</string>
+
+    //Cold Waves
+
+    <string name="pizzaIngredients">1.Dress in layers to stay warm, including a hat, gloves, scarf, and insulated clothing.
+\n2.Keep indoor spaces heated and well-insulated to maintain a comfortable temperature.
+\n3.Use heating devices safely, following manufacturer instructions and keeping them away from flammable materials.
+\n4.Stay indoors during extreme cold, especially if you have health conditions that may be aggravated by cold weather.
+\n5.Check on elderly or vulnerable neighbors to ensure they have adequate heating and supplies.</string>
+
+    <string name="pizzaDesc">1.Avoid using open flames indoors for heat due to carbon monoxide risks.
+\n2.Dress warmly and protect yourself from prolonged cold exposure.
+\n3.Recognize signs of hypothermia and seek medical help if needed.
+\n4.Keep pets indoors or provide adequate shelter during extreme cold.
+\n5.Be cautious of icy conditions on roads and sidewalks when traveling.</string>
+
+    //Thunderstrom
+
+    <string name="burgerIngredients">1.Seek shelter indoors or in a sturdy building during a thunderstorm.
+\n2.Stay away from tall objects, open fields, and water bodies.
+\n3.Unplug electrical devices to prevent damage from lightning strikes.
+\n4.Have an emergency kit with essentials like flashlights and first aid supplies.
+\n5.Monitor weather updates and follow safety guidelines from authorities.</string>
+    <string name="burgerDesc">1.Don\'t use wired electronic devices or landline phones during a thunderstorm.
+\n2.Avoid taking a bath or shower or using plumbing fixtures connected to pipes.
+\n3.Don\'t seek shelter under trees or in isolated structures.
+\n4.Avoid swimming or boating during thunderstorms.
+\n5.Don\'t touch metal objects or surfaces that conduct electricity.</string>
+
+    //fries
+
+    <string name="friesIngredients">1.Stay alert and monitor weather conditions, especially during heavy rainfall.
+\n2.Evacuate immediately if authorities issue a landslide warning or if you notice signs of slope instability.
+\n3.Create barriers using sandbags or other materials to divert debris away from structures.
+\n4.Maintain proper drainage around your property to reduce water buildup on slopes.
+\n5.Seek higher ground if you suspect a landslide is imminent.</string>
+    <string name="friesDesc">1.Don\'t build structures in areas prone to landslides or on steep slopes without proper reinforcement.
+\n2.Avoid walking or driving near steep slopes during heavy rain or after prolonged rainfall.
+\n3.Don\'t dump waste or debris on hillsides or near cliff edges.
+\n4.Avoid modifying natural drainage patterns without expert guidance.
+\n5.Don\'t ignore warning signs such as cracking soil, tilting trees, or sudden changes in water flow patterns.
+
+
+
+</string>
+
+</resources>

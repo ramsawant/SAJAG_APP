@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/bottom_alert"
+        android:icon="@drawable/round_warning_24"
+        android:title="Alert"/>
+
+    <item
+        android:id="@+id/bottom_report"
+        android:icon="@drawable/baseline_post_add_24"
+        android:title="Community"/>
+
+    <item
+        android:id="@+id/bottom_weather"
+        android:icon="@drawable/cloud"
+        android:title="Weather"/>
+
+
+    <item
+        android:id="@+id/bottom_profile"
+        android:icon="@drawable/baseline_person_pin_24"
+        android:title="Profile"/>
+
+
+</menu>

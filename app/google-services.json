@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "147987506474",
+    "firebase_url": "https://sajag-india-fd985-default-rtdb.firebaseio.com",
+    "project_id": "sajag-india-fd985",
+    "storage_bucket": "sajag-india-fd985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147987506474:android:edad6a46c42a518987aa53",
+        "android_client_info": {
+          "package_name": "com.example.sajagindia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHl3JLYx8NhkkpxnjxID8Bvj8bC4HDM0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
